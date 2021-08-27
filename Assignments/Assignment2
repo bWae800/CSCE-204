@@ -1,0 +1,21 @@
+#Author Brenden Wade
+
+clothing1 = input("Choose an article of clothing: ")
+adj = input("Choose an adjective: ")
+pluralnoun = input("Choose a plural noun: ")
+sport = input("Choose a sport: ")
+noun = input("Choose a  noun: ")
+adj2 = input("Choose another adjective: ")
+adv = input("Choose an adverb: ")
+propernoun = input("Choose an a proper noun: ")
+song = input("Choose a song title: ")
+interj = input("Choose an interjection: ")
+clothing2 = input("Choose an article of clothing: ")
+
+print(f"""
+I scoured my closet for the perfect {clothing1} to wear. Dressing for the most {adj} place around isnt easy. Sweating {pluralnoun}
+during the interview is a sure sign of weakness. I must remeber to play up my strengths: {sport}, menacing stares, and {noun} collecting.
+It has always been my dream to work with the Angel of Coding, or {adj2} Developer. The power and prestige are {adv} desirable. 
+The Gates of {propernoun} tower above me as I ring the doorbell. I can't believe that {song} is the doorbell chime.
+{interj}, his unicorn {clothing2} looks better in person!
+""")
