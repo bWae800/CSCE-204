@@ -9,7 +9,10 @@ print("My toy store")
 
 toys.append("slinky")
 
-#loop from 0 to 4
+#loop from 0 to 5
 
-for i in range(5):
-    print(toys[i])
+#for i in range(len(toys)):
+    #print(f"{i+1}. {toys[i]})
+
+for toy in toys:
+    print(toy)
