@@ -1,0 +1,8 @@
+ITEC 362: Introduction to Web Systems
+ITEC 370: Database Systems in IT
+MGMT 250: Professional Communication
+RETL 261: Principles of Accounting I
+ITEC 245: Introduction to Networking
+ITEC 265: Introduction to Databases
+ITEC 264: Computer Applications in Business I
+STAT 201: Elementary Statistics
