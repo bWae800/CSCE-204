@@ -24,7 +24,7 @@ while True:
         for item in job_list:
             item.display()
     elif command == "d":
-        title = input("Enter job name: ").strip().lower()
+        title = input("Enter job name: ")
         for job in job_list:
             if job.is_match(title):
                 job.display()
